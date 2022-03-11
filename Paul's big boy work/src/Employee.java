@@ -18,7 +18,7 @@ public class Employee {
     }
 
     public Employee(int id, String firstname) {
-        
+
         this.id = id;
         this.firstname = firstname;
     }
