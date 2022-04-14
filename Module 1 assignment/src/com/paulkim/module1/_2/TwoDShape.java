@@ -27,5 +27,5 @@ abstract class TwoDShape {
         return height;
     }
 
-    
+
 }
