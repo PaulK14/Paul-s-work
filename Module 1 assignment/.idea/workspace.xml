@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Inhertiance Assignment/src/Planet.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/paulkim/module1/_2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -41,6 +41,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\753045\Documents\GitHub\Paul-s-work\Module 1 assignment\src\com\paulkim\module1\_2" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,7 +55,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649366582954</updated>
-      <workItem from="1649366584102" duration="1241000" />
+      <workItem from="1649366584102" duration="1564000" />
+      <workItem from="1649710444600" duration="2057000" />
+      <workItem from="1649796400696" duration="3051000" />
+      <workItem from="1649882803557" duration="1329000" />
     </task>
     <servers />
   </component>

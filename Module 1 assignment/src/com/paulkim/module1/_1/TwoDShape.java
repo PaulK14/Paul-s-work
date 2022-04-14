@@ -10,7 +10,9 @@ public class TwoDShape {
 
     }
     public double getArea() {
+        return width*height;
+    }
+    public void setHeight(double height) {
 
     }
-
 }
