@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -33,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/paulkim/module1/_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/paulkim/module1/_4" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -44,6 +45,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\753045\Documents\GitHub\Paul-s-work\Module 1 assignment\src\com\paulkim\module1\_4" />
+      <recent name="C:\Users\753045\Documents\GitHub\Paul-s-work\Module 1 assignment\src\com\paulkim\module1\_3" />
       <recent name="C:\Users\753045\Documents\GitHub\Paul-s-work\Module 1 assignment\src\com\paulkim\module1\_2" />
     </key>
   </component>
@@ -80,6 +83,9 @@
       <workItem from="1649796400696" duration="3051000" />
       <workItem from="1649882803557" duration="1329000" />
       <workItem from="1649967853581" duration="1577000" />
+      <workItem from="1650401376221" duration="526000" />
+      <workItem from="1650487757110" duration="2816000" />
+      <workItem from="1650575856712" duration="2136000" />
     </task>
     <servers />
   </component>
