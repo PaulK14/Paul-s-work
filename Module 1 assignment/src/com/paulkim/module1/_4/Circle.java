@@ -5,13 +5,15 @@ public class Circle extends TwoDShape {
 
     private double radius;
 
-    Circle(double radius) {
+    Circle(double radius, Colour colour) {
+        super(colour);
 
     }
+    //above is for stating the properties of the circle
     public double getArea() {
         return 2*3.14*width;
     }
-
+//this is the operation required to find the area of the circle
     @Override
     public String toString() {
         return "Circle{" +
@@ -20,3 +22,4 @@ public class Circle extends TwoDShape {
                 '}';
     }
 }
+//the class for properties of a circle
