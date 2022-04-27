@@ -15,22 +15,23 @@ public class Triangle extends TwoDShape implements Rotate {
     private double heronsHeight() {
         return (side1 + side2 + side3)/2;
     }
+//get the area of the triangle using Heron's formula (using 3 sides instead of with & height)
     public double getArea() {
         return width*height;
     }
-
+//get the area of the triangle
     @Override
     public void rotate90() {
-
+//rotate 90 degrees
     }
 
     @Override
     public void rotate180() {
-        
+//rotate by 180 degrees
     }
 
     @Override
     public void rotate(double degree) {
-
+//method to rotate by a chosen degree
     }
 }
