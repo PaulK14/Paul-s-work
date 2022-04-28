@@ -6,7 +6,8 @@ abstract class TwoDShape {
     Colour colour;
 
     public TwoDShape(double width, double height) {
-
+        this.width = width;
+        this.height = height;
     }
     public TwoDShape(Colour colour) {
         this.colour = colour;
