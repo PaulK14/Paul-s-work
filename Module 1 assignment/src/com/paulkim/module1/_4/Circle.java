@@ -4,14 +4,17 @@ public class Circle extends TwoDShape {
     public final double PI = 3.14;
 
     private double radius;
+    public double Radius;
 
     Circle(double radius, Colour colour) {
         super(colour);
+        this.radius = radius;
+
 
     }
     //above is for stating the properties of the circle
     public double getArea() {
-        return 2*3.14*width;
+        return 2*3.14*radius;
     }
 //this is the operation required to find the area of the circle
     @Override

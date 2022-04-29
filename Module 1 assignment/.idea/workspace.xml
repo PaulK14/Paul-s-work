@@ -64,7 +64,7 @@
       <recent name="com.paulkim.module1._4" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.trianglegetareatest">
+  <component name="RunManager" selected="JUnit.CircleTest.CirclegetAreatest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.paulkim.module1._2.Main" />
       <module name="Module 1 assignment" />
@@ -74,6 +74,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleTest.CirclegetAreatest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Module 1 assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.paulkim.module1._4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.paulkim.module1._4" />
+      <option name="MAIN_CLASS_NAME" value="com.paulkim.module1._4.CircleTest" />
+      <option name="METHOD_NAME" value="CirclegetAreatest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,6 +127,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CircleTest.CirclegetAreatest" />
         <item itemvalue="JUnit.trianglegetareatest" />
         <item itemvalue="JUnit.trianglegetareatest.trianglebutarea" />
         <item itemvalue="Application.Main" />
@@ -136,7 +153,8 @@
       <workItem from="1650660267917" duration="2068000" />
       <workItem from="1651008545523" duration="1187000" />
       <workItem from="1651092392694" duration="3154000" />
-      <workItem from="1651180491884" duration="2757000" />
+      <workItem from="1651180491884" duration="2774000" />
+      <workItem from="1651265069486" duration="1107000" />
     </task>
     <servers />
   </component>
