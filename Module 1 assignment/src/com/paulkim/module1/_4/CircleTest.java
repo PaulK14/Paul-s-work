@@ -11,5 +11,4 @@ public class CircleTest {
         assertEquals(12.56, CircleTest.getArea(), 0);
     }
     //tests if the circle method works in the way it's supposed to
-
 }
