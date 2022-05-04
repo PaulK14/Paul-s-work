@@ -1,5 +1,17 @@
+import java.util.ArrayList;
+
 public class Main {
+    public static void main(String[] args) {
+        Arraylist<Card> CardDeck = new ArrayList<>();
+        CardDeck.add(new Card(1,true, "diamond"));
+    }
 }
+
+
+
+
+
+
 /*make deck of cards with (face or number, numerical value, suit) ez pz right?.
 the difficult part is creating the actual values for the stuff.
 With loops you can make all the cards up to the ace? jokers? not sure but put in values for those I guess.

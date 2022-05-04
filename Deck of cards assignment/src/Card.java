@@ -7,6 +7,30 @@ public class Card {
         this.NumericalValue = NumericalValue;
         this.Face = Face;
         this.suit = suit;
-
     }
+
+    public int getNumericalValue() {
+        return NumericalValue;
+    }
+
+    public void setNumericalValue(int numericalValue) {
+        NumericalValue = numericalValue;
+    }
+
+    public boolean isFace() {
+        return Face;
+    }
+
+    public void setFace(boolean face) {
+        Face = face;
+    }
+
+    public String getSuit() {
+        return suit;
+    }
+
+    public void setSuit(String suit) {
+        this.suit = suit;
+    }
+
 }
