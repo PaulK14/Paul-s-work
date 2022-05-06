@@ -2,8 +2,9 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        Arraylist<Card> CardDeck = new ArrayList<>();
-        CardDeck.add(new Card(1,true, "diamond"));
+        Arraylist<Card> CardDeck = new ArrayList<Card>();
+        CardDeck.add(new Card(1,true, Suit.DIAMOND));
+        for(i >= 2; i <= 11;);
     }
 }
 
