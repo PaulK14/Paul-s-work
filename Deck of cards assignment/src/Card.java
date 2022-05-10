@@ -42,4 +42,12 @@ public class Card {
         return NumericalValue +
                 " of " + suit;
     }
+    @Override
+    public boolean equals(Suit suit) {
+            if(this.suit == Suit.CLUBS) {
+                return true;
+            }
+
+        }
+    }
 }
