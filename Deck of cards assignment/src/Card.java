@@ -1,3 +1,5 @@
+import java.util.Objects;
+
 public class Card {
     public int NumericalValue;
     public boolean face;
@@ -42,12 +44,25 @@ public class Card {
         return NumericalValue +
                 " of " + suit;
     }
+
     @Override
-    public boolean equals(Suit suit) {
-            if(this.suit == Suit.CLUBS) {
+    public boolean equals(Object o) {
+        if (this.suit == Suit.SPADES) {
+            if (this.suit == Suit.HEARTS) {
+                if (this.suit == Suit.CLUBS) {
+                    if (this.suit == Suit.DIAMONDS) return false;
+                }
                 return true;
             }
-
+            return true;
         }
+        return true;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(NumericalValue, face, suit);
     }
 }
+
+
