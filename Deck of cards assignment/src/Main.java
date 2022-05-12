@@ -4,16 +4,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class Main {
-    @Override
-    public int hashCode() {
-        return super.hashCode();
-    }
-
-    @Override
-    public boolean equals(Object obj) {
-        return super.equals(obj);
-    }
-
     public static void main(String[] args) {
         ArrayList<Card> CardList = new ArrayList<Card>();
 //        CardList.add(new Card(1,true, Suit.DIAMOND));
@@ -26,7 +16,6 @@ public class Main {
                 CardList.add(new Card(p, true, Suit.values()[i]));
             }
         }
-
 //        Collections.shuffle(CardList);
 
         for (Card card:
