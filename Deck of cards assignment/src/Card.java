@@ -60,10 +60,17 @@ public class Card implements Comparable{
 
     @Override
     public int compareTo(Object o) {
-        if(this.suit > o.suit) {
+        Card card = (Card) o;
+        if(this.suit.ordinal() > card.suit.ordinal()) {
             return 1;
         }
-        else if(this.suit < o.suit) {
+        else if(this.suit.ordinal() < card.suit.ordinal()) {
+            return -1;
+        }
+        if(this.NumericalValue > card.NumericalValue){
+            return 1;
+        }
+        else if(this.NumericalValue < card.NumericalValue) {
             return -1;
         }
         return 0;
