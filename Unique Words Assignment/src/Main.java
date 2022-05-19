@@ -11,10 +11,11 @@ public class Main {
 
         while (scanner.hasNext()) {
             String word = scanner.next().replaceAll("[^a-zA-Z]", "").toLowerCase();
-
+//Replace all the punctuation with spaces and change all uppercase letter to lowercase
             Wordle.add(word);
-
+//Add all the words from the text to the hashset
         }
         System.out.println(Wordle.size() + " words");
+        //print out how many words there are :D
     }
 }
