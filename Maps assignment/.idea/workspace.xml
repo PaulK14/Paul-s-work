@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d6430c1d-d0f7-464a-8bab-3d6a555e33af" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +33,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -40,6 +47,8 @@
       <option name="presentableId" value="Default" />
       <updated>1653082819854</updated>
       <workItem from="1653082822054" duration="864000" />
+      <workItem from="1653425300284" duration="2510000" />
+      <workItem from="1653511575433" duration="3373000" />
     </task>
     <servers />
   </component>

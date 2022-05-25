@@ -3,6 +3,5 @@ public class Alphabetical {
     public Alphabetical(String Letter) {
         this.Letter = Letter;
     }
-
-
 }
+
