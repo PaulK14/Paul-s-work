@@ -5,7 +5,7 @@ public class Main {
 
         HashMap<Alphabetical, Order> map = new HashMap<Alphabetical, Order>();
         for(int i = 0; i < 26; i++) {
-            map.put (new Alphabetical())
+            //map.put (new Alphabetical())
         }
     }
 
