@@ -2,11 +2,16 @@ import java.util.HashMap;
 
 public class Main {
     public static void main(String[] args) {
-
-        HashMap<Alphabetical, Order> map = new HashMap<Alphabetical, Order>();
+        String alphabit = "abcdefghijklmnopqrstuvwxyz";
+        String[] alphaArray = alphabit.split("");
+        int shift = 5;
+        String Message = "pocket";
+        HashMap<String, String> Encrypt = new HashMap<>();
         for(int i = 0; i < 26; i++) {
-            //map.put (new Alphabetical())
+            int index = (i + shift) % 26;
+            int index2 = (i - shift) % 26;
+            Encrypt.put(alphaArray[index],alphaArray[index2]);
         }
+        System.out.println("test");
     }
-
 }
