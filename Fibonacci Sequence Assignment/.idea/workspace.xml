@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6430c1d-d0f7-464a-8bab-3d6a555e33af" name="Changes" comment="" />
+    <list default="true" id="3f155e41-9abd-462b-8eb3-e3b49ebef981" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +23,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="29RjVeL1Zr8x7EazsFF0eOjVLXD" />
+  <component name="ProjectId" id="2AGTpsfT2jjSGFadM5XXhZ5npiR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,18 +37,14 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Cipher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cipher" />
-      <module name="Maps assignment" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Maps assignment" />
+      <module name="Fibonacci Sequence Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -56,28 +52,18 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Cipher" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d6430c1d-d0f7-464a-8bab-3d6a555e33af" name="Changes" comment="" />
-      <created>1653082819854</created>
+      <changelist id="3f155e41-9abd-462b-8eb3-e3b49ebef981" name="Changes" comment="" />
+      <created>1654635111222</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1653082819854</updated>
-      <workItem from="1653082822054" duration="864000" />
-      <workItem from="1653425300284" duration="2510000" />
-      <workItem from="1653511575433" duration="4504000" />
-      <workItem from="1653597341248" duration="4231000" />
-      <workItem from="1653943836972" duration="3950000" />
-      <workItem from="1654030061743" duration="4385000" />
-      <workItem from="1654116492880" duration="600000" />
-      <workItem from="1654204594640" duration="662000" />
-      <workItem from="1654548577468" duration="595000" />
-      <workItem from="1654634989603" duration="120000" />
+      <updated>1654635111222</updated>
+      <workItem from="1654635112217" duration="3009000" />
     </task>
     <servers />
   </component>
